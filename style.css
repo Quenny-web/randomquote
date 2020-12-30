@@ -1,0 +1,26 @@
+body {
+    background-color: blueviolet;
+}
+
+#container {
+    background-color: pink;
+    border: 5px solid navy;
+    height: 275px;
+    width: 750px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#btn {
+    margin: 50px auto;
+    height: 25px;
+    width: 250px;
+    font-size: 18px;
+    background-color: rgb(192, 191, 150);
+}
+
+#output {
+    margin: 0 auto;
+    font-size: 14px;
+    background-color: blanchedalmond;
+}
